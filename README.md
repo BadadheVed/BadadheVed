@@ -23,7 +23,7 @@ I'm a Software Developer with expertise in building scalable, distributed, and r
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,ts,cpp,java" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=go,python,ts,js,java,cpp,c" alt="Programming Languages"/>
   </a>
 </p>
 
